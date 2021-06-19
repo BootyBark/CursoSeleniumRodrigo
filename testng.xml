@@ -1,0 +1,13 @@
+<suite name="AllTests">
+    <test name="TestCases">
+        <classes>
+            <class name="ExamenFinal.PruebaNetflixTest"/>
+        </classes>
+        <groups>
+            <run>
+                <include name="TestCases"/>
+            </run>
+        </groups>
+    </test>
+</suite>
+
