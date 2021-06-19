@@ -1,0 +1,12 @@
+<suite name="Examen.prueba_mailchimp">
+    <test name="Mailchimp">
+        <classes>
+            <class name="Examen.prueba_mailchimp"/>
+        </classes>
+        <groups>
+            <run>
+                <include name="allTests"/>
+            </run>
+        </groups>
+    </test>
+</suite>
